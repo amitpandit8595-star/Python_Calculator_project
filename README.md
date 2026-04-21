@@ -1,2 +1,2 @@
-# Python_Calculator_project
+-- CALCULATOR PROJECT --
 AUTHOR - AMIT
